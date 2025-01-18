@@ -15,3 +15,5 @@ The workflow of the model in short is as follows:-
 - context combination
 - get answer using qa model
 - display answer
+
+MOST OF THE CODE IS CRAP.
